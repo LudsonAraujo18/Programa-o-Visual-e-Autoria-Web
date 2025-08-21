@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h1>Curriculo empresarial</h1>
+    <header>
+      <h3> Me chamo Ludson de Araújo Teixeira, tenho 19 anos, sou natural de Touros/RN, sou aluno do 4º periodo do curso de Análise e Desenvolvimento de Sistemas da UFRN.</h3>
+      <figure>
+        <a href="URL_do_link">
+          <img src="https://preview.redd.it/the-enhance-image-of-cj-looks-much-better-and-detailed-than-v0-ms69shh4yh981.jpg?width=1080&crop=smart&auto=webp&s=eed476c160d1278cfd4bfb16afc1563ae4a70e37" width="300" height="200" >
+        </a>
+      </figure>
+    </header>
+    <section>
+      <h3>Lista de interreses.</h3>
+      <ul>
+        <li>C#</li>
+        <li>Java</li>
+        <li>JavaScript</li>
+        <li>GO</li>
+      </ul>
+    </section>
+    <section>
+      <h3>Lista de preferências.</h3>
+      <ul>
+        <li>C++</li>
+        <li>Java</li>
+        <li>JavaScript</li>
+      </ul>
+    </section>
+    <article>
+      <table>
+        <h3>Horáriso Disponíveis</h3>
+          <thead>
+            <tr>
+              <th>Hora</th>
+              <th>Segunda</th>
+              <th>Quarta</th>
+              <th>Sexta</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Das 08:00 ás 11:30</td>
+              <td></td> <!-- Horário livre -->
+              <td> Disponível</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>Das 07:00 ás 12:00</td>
+              <td> Disponível</td>
+              <td></td>
+              <td> Disponível</td>
+            </tr>
+          </tbody>
+      </table>
+    </article>
+    <br>
+    <address>
+      Contatos: +55 (84) 99613-5529 <br/ > email:<a
+      <p>
+        ludson.araujo.133@ufrn.edu.br
+      </p>
+      <a href="https://github.com/LudsonAraujo18?tab=repositories">Pagina para o GitHub</a> <br>
+      <a href="https://www.linkedin.com/in/ludson-teixeira-508089380/">Pagina para o linkedin</a><br>
+    </address>
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31787.422078954074!2d-35.50093235999768!3d-5.195253713837245!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7b4766f28af49b5%3A0x44eac1f8be714f44!2sTouros%2C%20RN%2C%2059584-000!5e0!3m2!1spt-BR!2sbr!4v1755788428815!5m2!1spt-BR!2sbr" width="425" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+      <footer>
+        <p>Desenvolvido por: Ludson de Araújo Teixeira</p>
+      </footer>
+  </body>
+</html>
